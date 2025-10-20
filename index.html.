@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Autobiography - Jean V. Piñas</title>
+  <style>
+    body {
+      font-family: "Poppins", Arial, sans-serif;
+      background-color: #f8f9fa;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      line-height: 1.7;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 750px;
+      background-color: #fff;
+      margin: 40px auto;
+      padding: 30px 35px;
+      border-radius: 15px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+      margin-bottom: 5px;
+    }
+
+    hr {
+      border: none;
+      height: 2px;
+      background: #2c3e50;
+      width: 70px;
+      margin: 10px auto 25px;
+    }
+
+    p {
+      text-align: justify;
+      text-indent: 40px; /* adds space at start of each paragraph */
+      margin-bottom: 18px;
+    }
+
+    b {
+      font-weight: 600;
+      color: #000;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>My Autobiography</h1>
+    <hr>
+
+    <p><b>Life is a journey full of dreams and lessons that guide us and help us to grow</b>. Everyone has a story and mine is still in the progress as I continue each day and I am the person with big hopes for my future. My name is <b>Jean V. Piñas</b>, I just recently <b>turned 19 last October 12</b>. I live in <b>Bankal, Lapu-Lapu City</b>. I am currently studying at <b>Lapu-Lapu City College</b> as an <b>Information Technology</b> student. Being a student is not always easy but I am willing to work hard because I know this will help me reach my dreams.</p>
+
+    <p>I am the <b>youngest child among three siblings</b>. Growing up I experienced both being cared for and also being challenged to prove myself. I have <b>always love animals</b>, <b>especially cats</b> because they make me feel happy and relaxed whenever I play with them. Aside from that, I also enjoy <b>reading fiction books</b> and <b>watching dramas</b>. These simple hobbies are my stress relievers whenever I feel tired or bored. It also give me ideas, lessons and inspiration that I carry in my daily life.</p>
+
+    <p>I also love exploring new things because I believe learning does not only happen in school but also through experiences. Every new challenge or opportunity I face helps me grow and discover more about myself. <b>My biggest goal is to finish my studies, so I can be successful in the future</b>. I want to show people especially my family that I can achieve my dreams. I want them to feel proud of me and see that all their sacrifices are worth it.</p>
+
+    <p>My life is a journey filled with lessons, challenges and dreams. As days, months or years may pass I am more eager to keep striving and learning. Life may not always be easy but I believe that with patience and determination, I will reach the future that I have been hoping for. <b>This is who I am and I will continue to do my best until I make my dreams come true.</b></p>
+  </div>
+</body>
+</html>
